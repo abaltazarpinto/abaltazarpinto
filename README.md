@@ -1,10 +1,10 @@
-                                                 # 💫 About Me:
-                                                 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&multiline=true&width=435&lines=I+am+Andre+Baltazar;Working+as+Web+Developer+at+MI-GSO;Learning+C+at+42+scholl)](https://git.io/typing-svg)
+# 💫 About Me:
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&duration=3000&pause=1000&color=1C85F7&width=435&lines=I+am+Andre+Baltazar%7C;Working+at+MI-GSO+as+a+Web+Developer%7C;Learning+C+at+42+school%7C)](https://git.io/typing-svg)
 
-
-⚡I am an engineer with a particular interest in making things and automating daily tasks. I tried to keep up with new technologies, and am always looking for new things to learn. 
-🔭 I’m currently working on MI GSO as Web Developer<br>🌱 I’m currently learning C at school 42
+⚡I am an engineer with a particular interest in making things and automating daily tasks. I tried to keep up with new technologies, and am always looking for new things to learn. <br>
+🔭 I’m currently working on MI GSO as Web Developer<br>
+🌱 I’m currently learning C at school 42
 
 
 ## 🌐 Socials:
