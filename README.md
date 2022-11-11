@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=30&duration=3000&pause=1000&color=1C85F7&width=435&lines=I+am+Andre+Baltazar%7C;Working+at+MI-GSO+as+a+Web+Developer%7C;Learning+C+at+42+school%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=25&duration=3000&pause=1000&color=1C85F7&width=435&lines=I+am+Andre+Baltazar%7C;Working+at+MI-GSO+as+a+Web+Developer%7C;Learning+C+at+42+school%7C)](https://git.io/typing-svg)
 
 ⚡I am an engineer with a particular interest in making things and automating daily tasks. I tried to keep up with new technologies, and am always looking for new things to learn. <br>
 🔭 I’m currently working on MI GSO as Web Developer<br>
