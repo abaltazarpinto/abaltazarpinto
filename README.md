@@ -22,30 +22,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrepinto77&theme=dark&hide_border=false" alt="animated" />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepinto77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
+</p>
+<p align="center">
   <img src="" alt="animated" />https://github-readme-stats.vercel.app/api/top-langs/?username=andrepinto77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
 </p>
-![](https://github-readme-stats.vercel.app/api?username=andrepinto77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrepinto77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrepinto77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=andrepinto77&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="animated" />
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=andrepinto77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="animated" />
 </p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 😂 Dev Meme
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" alt="animated" />
 </p>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andrepinto77&icon=0&color=0)](https://visitcount.itsvg.in)
