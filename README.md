@@ -6,7 +6,7 @@
 
 ⚡I am an engineer with a particular interest in making things and automating daily tasks. I tried to keep up with new technologies, and am always looking for new things to learn. <br>
 🔭 I’m currently working on MI GSO as Web Developer<br>
-🌱 I’m currently learning C at school 42
+🌱 I’m currently learning C at school 42 - PORTO
 
 ***
 ***
