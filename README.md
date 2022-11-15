@@ -21,7 +21,10 @@
 
 ## :camera: Intra Profile
 
-[![abaltaza's 42 stats](https://badge42.vercel.app/api/v2/clai1kz3g00300fmq6tx713ow/stats?cursusId=21&coalitionId=237)](https://github.com/JaeSeoKim/badge42)
+<p align="center">
+  <img src="https://badge42.vercel.app/api/v2/clai1kz3g00300fmq6tx713ow/stats?cursusId=21&coalitionId=237" />
+</p>
+
 
 ***
 
