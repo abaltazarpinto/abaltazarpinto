@@ -15,7 +15,7 @@
 
 | Circle | Project                                                                              |            Language            |                                      Score                                       |  Level   |
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------: |
-|   01   | [**Libft**] | C | ![abaltaza's 42 Libft Score](https://badge42.vercel.app/api/v2/clai1kz3g00300fmq6tx713ow/project/2865610) | 1                 
+|   01   | [**Libft**](https://github.com/andrepinto77/42Cursus---Libft) | C | ![abaltaza's 42 Libft Score](https://badge42.vercel.app/api/v2/clai1kz3g00300fmq6tx713ow/project/2865610) | 1                 
 
 ---
 
