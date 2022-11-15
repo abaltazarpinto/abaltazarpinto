@@ -9,6 +9,21 @@
 🌱 I’m currently learning C at school 42
 
 ***
+***
+# 42 Cursus SCHOOL STATS
+## :notebook_with_decorative_cover: 42 cursus (2020/02/24~)
+
+| Circle | Project                                                                              |            Language            |                                      Score                                       |  Level   |
+| :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :------------------------------------------------------------------------------: | :------: |
+|   01   | [**Libft**] | C | ![abaltaza's 42 Libft Score](https://badge42.vercel.app/api/v2/clai1kz3g00300fmq6tx713ow/project/2865610) | 1                 
+
+---
+
+## :camera: Intra Profile
+
+[![abaltaza's 42 stats](https://badge42.vercel.app/api/v2/clai1kz3g00300fmq6tx713ow/stats?cursusId=21&coalitionId=237)](https://github.com/JaeSeoKim/badge42)
+
+***
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andr%C3%A9-baltazar-pinto-13a056141/) 
