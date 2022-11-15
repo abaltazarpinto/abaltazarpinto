@@ -35,13 +35,13 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrepinto77&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abaltazarpinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrepinto77&theme=dark&hide_border=false" alt="animated" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaltazarpinto&theme=dark&hide_border=false" alt="animated" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepinto77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaltazarpinto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="animated" />
 </p>
 
 ## 🏆 GitHub Trophies
